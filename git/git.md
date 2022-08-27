@@ -28,3 +28,7 @@
 > git reflog  
 > git log
 ---
+
+#### ***7. 版本穿梭*** 
+> git reset --hard 版本号
+---
