@@ -16,6 +16,10 @@
 ---
 
 #### ***4. 暂存区添加及取消*** 
-> git add 文件名
+> git add 文件名  
 > git rm --cached 文件名
+---
+
+#### ***5. 提交本地库*** 
+> git commit -m "commit content" 文件名
 ---
