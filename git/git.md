@@ -23,3 +23,8 @@
 #### ***5. 提交本地库*** 
 > git commit -m "commit content" 文件名
 ---
+
+#### ***6. 查看历史版本*** 
+> git reflog  
+> git log
+---
