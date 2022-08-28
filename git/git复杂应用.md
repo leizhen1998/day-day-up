@@ -6,7 +6,7 @@
 ---
 
 #### ***2. 对比已暂存文件与最后一次提交的文件差异*** 
-> git diff --staged
+> git diff --staged  
 > git diff --cached
 ---
 
